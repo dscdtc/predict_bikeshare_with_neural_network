@@ -16,3 +16,5 @@ my first neural network project in order to predict daily bike rental ridership 
 	author={Fanaee-T, Hadi and Gama, Joao},  
 	pages={1-15}  
 }  
+
+参考链接： https://zhuanlan.zhihu.com/p/28847218
